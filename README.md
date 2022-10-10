@@ -1,2 +1,2 @@
 # start2rust
-study rust
+learn rust
